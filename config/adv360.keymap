@@ -49,7 +49,7 @@
       display-name = "Fn";
       bindings = <
         &kp F1 &kp F2 &kp F3    &kp F4     &kp F5    &kp F6  &tog 1                                          &mo 3 &kp F7   &kp F8   &kp F9   &kp F10   &kp F11   &kp F12
-        &trans &LC(LA(LG(1))) &LC(LA(LG(2)))    &LC(LA(LG(3)     &LC(LA(LG(4)))    &LC(LA(LG(5)))  &none                                           &none &kp DEL  &kp BSPC &trans   &trans    &trans    &trans
+        &trans &LC(LA(LG(1))) &LC(LA(LG(2)))    &LC(LA(LG(3)))     &LC(LA(LG(4)))    &LC(LA(LG(5)))  &none                                           &none &kp DEL  &kp BSPC &trans   &trans    &trans    &trans
         &trans &trans &trans    &trans     &trans    &trans  &none        &trans &trans &trans &trans        &none &kp LEFT &kp DOWN &kp UP   &kp RIGHT &trans    &trans  
         &trans &trans &kp LG(Z) &kp LG(C)  &kp LG(V) &trans                      &trans &trans                     &trans   &trans   &trans   &trans    &trans    &trans
         &trans &trans &trans    &trans     &trans                  &trans &trans &trans &trans &trans &trans                &trans   &trans   &trans    &trans    &trans
